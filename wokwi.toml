@@ -1,11 +1,4 @@
-Buat File baru wokwi.toml di dalam vs code yang ada di github codespaces
-
-masukkan kode berikut
-
 [wokwi]
-
 version = 1
-
 firmware = 'path-to-your-firmware.hex'
-
 elf = 'path-to-your-firmware.elf'
